@@ -42,3 +42,9 @@
   ![thong_ke_so_hoa_don]()
 - Thống kê doanh thu
   ![thong_ke_doanh_thu]()
+## Công nghệ sử dụng
+- Android Studio
+## Thông tin thành viên
+- Võ Thiện Nhân - 21DH111296
+- Trần Hoàng Nam - 21DH113304
+- Vũ Khải Hoàn - 21DH113
