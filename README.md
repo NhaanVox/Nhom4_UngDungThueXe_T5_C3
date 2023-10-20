@@ -6,9 +6,9 @@
 ## Các chức năng đồ án
 **Customer**
 - Đặt xe (Chọn ngày, phương thức thanh toán, ...)
-  ![dat_xe](https://raw.githubusercontent.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/main/images/Trang%20ch%E1%BB%A7.jpg)
+  ![dat_xe]()
 - Xem danh mục xe
-  ![xem_danh_muc_xe]()
+  <br> <img src="https://raw.githubusercontent.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/main/images/Trang%20ch%E1%BB%A7.jpg" alt="dat_xe" width="300" height="500">
 - Thanh toán
   ![thanh_toan]()
 - Xem thông tin chi tiết xe
