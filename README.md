@@ -1,8 +1,8 @@
-# 📣 ỨNG DỤNG QUẢN LÝ THUÊ XE 📣
+# ỨNG DỤNG QUẢN LÝ THUÊ XE 
 ## 🏴 Mục đích đồ án 🏴
-☝🏻 Quản lý việc thuê xe nhằm đảm bảo hoạt động thuê xe của khách hàng một cách uy tín.
-✌🏻 Giúp khách hàng có thể thực hiện thuê xe được qua mạng.
-🤟🏻 Quản lý các hoạt động kinh doanh như thống kê doanh thu, lập hóa đơn điện tử, giá cho thuê v.v…
+- ☝🏻 Quản lý việc thuê xe nhằm đảm bảo hoạt động thuê xe của khách hàng một cách uy tín.
+- ✌🏻 Giúp khách hàng có thể thực hiện thuê xe được qua mạng.
+- 🤟🏻 Quản lý các hoạt động kinh doanh như thống kê doanh thu, lập hóa đơn điện tử, giá cho thuê v.v…
 ## 🚩 Các chức năng đồ án 🚩
 **Customer**
 - Đặt xe (Chọn ngày, phương thức thanh toán, ...)
@@ -43,11 +43,11 @@
 - Thống kê doanh thu
   <br> <img src="" alt="thong_ke_doanh_thu" width="300" height="500">
 ## Công nghệ sử dụng
-- Android Studio
+- ⚡️ Android Studio: (https://developer.android.com/studio)
 ## Thông tin thành viên
-☞ Võ Thiện Nhân - 21DH111296
-☞ Trần Hoàng Nam - 21DH113304
-☞ Vũ Khải Hoàn - 21DH113632
+- ☞ Võ Thiện Nhân - 21DH111296
+- ☞ Trần Hoàng Nam - 21DH113304
+- ☞ Vũ Khải Hoàn - 21DH113632
 
 | Công việc | 👦🏻 Nhân | 🐱 Nam | 👨🏻‍🚀 Hoàn |
 |-----------|------|-----|------|
