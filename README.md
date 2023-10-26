@@ -48,3 +48,9 @@
 - Võ Thiện Nhân - 21DH111296
 - Trần Hoàng Nam - 21DH113304
 - Vũ Khải Hoàn - 21DH113632
+
+| Công việc |  Nhân  |  Nam  |  Hoàn  |
+|-----------|--------|-------|--------|
+| Sprint 1  |   ✔️  |  ✔️   |  ✔️   |
+| Sprint 2  |   ✔️  |  ✔️   |  ✔️   |
+| Sprint 3  |   ❌  |  ❌   |  ❌   |
