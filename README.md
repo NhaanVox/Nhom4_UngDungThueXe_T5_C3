@@ -1,9 +1,9 @@
-# Đồ án ứng dụng quản lý thuê xe
-## Mục đích đồ án
-- Quản lý việc thuê xe nhằm đảm bảo hoạt động thuê xe của khách hàng một cách uy tín.
-- Giúp khách hàng có thể thực hiện thuê xe được qua mạng
-- Quản lý các hoạt động kinh doanh như thống kê doanh thu, lập hóa đơn điện tử, giá cho thuê v.v…
-## Các chức năng đồ án
+# 📣 ỨNG DỤNG QUẢN LÝ THUÊ XE 📣
+## 🏴 Mục đích đồ án 🏴
+☝🏻 Quản lý việc thuê xe nhằm đảm bảo hoạt động thuê xe của khách hàng một cách uy tín.
+✌🏻 Giúp khách hàng có thể thực hiện thuê xe được qua mạng.
+🤟🏻 Quản lý các hoạt động kinh doanh như thống kê doanh thu, lập hóa đơn điện tử, giá cho thuê v.v…
+## 🚩 Các chức năng đồ án 🚩
 **Customer**
 - Đặt xe (Chọn ngày, phương thức thanh toán, ...)
   <br> <img src="https://raw.githubusercontent.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/main/images/Trang%20%C4%91%E1%BA%B7t%20xe.jpg" alt="dat_xe" width="300" height="500">
@@ -45,12 +45,12 @@
 ## Công nghệ sử dụng
 - Android Studio
 ## Thông tin thành viên
-- Võ Thiện Nhân - 21DH111296
-- Trần Hoàng Nam - 21DH113304
-- Vũ Khải Hoàn - 21DH113632
+☞ Võ Thiện Nhân - 21DH111296
+☞ Trần Hoàng Nam - 21DH113304
+☞ Vũ Khải Hoàn - 21DH113632
 
-| Công việc |  Nhân  |  Nam  |  Hoàn  |
-|-----------|--------|-------|--------|
-| Sprint 1  |  ✔️  |  ✔️  |  ✔️  |
-| Sprint 2  |  ✔️  |  ✔️  |  ✔️  |
-| Sprint 3  |  ❌  |  ❌  |  ❌  |
+| Công việc | 👦🏻 Nhân | 🐱 Nam | 👨🏻‍🚀 Hoàn |
+|-----------|------|-----|------|
+| Sprint 1 | ✔️ | ✔️ | ✔️ |
+| Sprint 2 | ✔️ | ✔️ | ✔️ |
+| Sprint 3 | ❌ | ❌ | ❌ |
