@@ -50,8 +50,8 @@
 - Vũ Khải Hoàn - 21DH113632
 
 |           |  Nhân  |  Nam  |  Hoàn  |
-| Công việc |  Team Lead  |  Scrum Master  |  Product Owner  |
 |-----------|--------|-------|--------|
+| Công việc |  Team Lead  |  Scrum Master  |  Product Owner  |
 | Sprint 1  |   ✔️  |  ✔️   |  ✔️   |
 | Sprint 2  |   ✔️  |  ✔️   |  ✔️   |
 | Sprint 3  |   ❌  |  ❌   |  ❌   |
