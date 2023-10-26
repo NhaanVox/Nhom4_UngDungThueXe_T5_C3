@@ -49,7 +49,8 @@
 - Trần Hoàng Nam - 21DH113304
 - Vũ Khải Hoàn - 21DH113632
 
-| Công việc |  Nhân  |  Nam  |  Hoàn  |
+|           |  Nhân  |  Nam  |  Hoàn  |
+| Công việc |  Team Lead  |  Scrum Master  |  Product Owner  |
 |-----------|--------|-------|--------|
 | Sprint 1  |   ✔️  |  ✔️   |  ✔️   |
 | Sprint 2  |   ✔️  |  ✔️   |  ✔️   |
