@@ -21,8 +21,6 @@
   <br> <img src="https://raw.githubusercontent.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/main/images/Trang%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20kho%E1%BA%A3n%20c%C3%A1%20nh%C3%A2n.jpg" alt="dang_xuat" width="300" height="500">
 - Xem đơn đang thuê
   <br> <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Trang%20xem%20%C4%91%C6%A1n%20%C4%91ang%20thu%C3%AA.jpg?raw=true" alt="xem_don_dang_thue" width="300" height="500">
-- Hủy đơn thuê xe
-  <br> <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/H%E1%BB%A7y%20%C4%91%C6%A1n%20h%C3%A0ng.jpg?raw=true" alt="huy_don_thue_xe" width="300" height="500">
 - Xem lịch sử thuê xe
   <br> <img src="" alt="xem_lich_su_thue_xe" width="300" height="500">
 - Quản lý tài khoản cá nhân
