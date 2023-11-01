@@ -4,7 +4,7 @@
 - ✌🏻 Giúp khách hàng có thể thực hiện thuê xe được qua mạng.
 - 🤟🏻 Quản lý các hoạt động kinh doanh như thống kê doanh thu, lập hóa đơn điện tử, giá cho thuê v.v…
 ## 🚩 Các chức năng đồ án 🚩
-**Customer**
+**🙋‍♂️Customer🙋**
 - Đặt xe (Chọn ngày, phương thức thanh toán, ...)
   <br> <img src="https://raw.githubusercontent.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/main/images/Trang%20%C4%91%E1%BA%B7t%20xe.jpg" alt="dat_xe" width="300" height="500">
 - Xem danh mục xe
@@ -27,7 +27,7 @@
   <br> <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Trang%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20kho%E1%BA%A3n%20c%C3%A1%20nh%C3%A2n.jpg?raw=true" alt="quan_ly_tai_khoan_ca_nhan" width="300" height="500">
 - Tìm kiếm xe
   <br> <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/T%C3%ACm%20ki%E1%BA%BFm%20xe.jpg?raw=true" alt="tim_kiem_xe" width="300" height="500">
-- **Admin**
+- **👨‍💻Admin🔧**
 - Quản lý đơn hàng (Xem, Hủy đơn hàng)
   <br> <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Trang%20qu%E1%BA%A3n%20l%C3%BD%20h%C3%B3a%20%C4%91%C6%A1n.jpg?raw=true" alt="quan_ly_don_hang" width="300" height="500">
 - Quản lý xe cho thuê (Thêm, Sửa, Xóa)
