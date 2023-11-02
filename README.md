@@ -43,6 +43,8 @@
 ## 🔗Link dự án🔗
 Để xem cụ thể các chức năng và code: 
 [Click vào đây để tải](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+## 🚀Hướng phát triển🛰
+-
 ## 🔑Công nghệ sử dụng🔑
 - ⚡️ Android Studio: (https://developer.android.com/studio)
 ## Thông tin thành viên
