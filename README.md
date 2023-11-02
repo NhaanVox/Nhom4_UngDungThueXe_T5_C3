@@ -43,7 +43,7 @@
 ## 🔗Link dự án🔗
 Để xem cụ thể các chức năng và code: 
 [Click vào đây để tải](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
-## Hướng phát triển
+## 🚀Hướng phát triển🛰
 ## ⚡Công nghệ sử dụng⚡
  <a href="https://developer.android.com/studio">
   <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Android%20Studio%20Icon.png?raw=true" alt="AndroidStudio" width="100" height="50">
