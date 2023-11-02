@@ -44,7 +44,9 @@
 Để xem cụ thể các chức năng và code: 
 [Click vào đây để tải](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 ## 🚀Hướng phát triển🛰
--
+- Qua môn
+- Chỉnh sửa giao diện tối ưu và đặc đắc hơn
+- Chức năng đánh giá xe
 ## 🔑Công nghệ sử dụng🔑
 - ⚡️ Android Studio: (https://developer.android.com/studio)
 ## Thông tin thành viên
