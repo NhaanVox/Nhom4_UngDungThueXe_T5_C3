@@ -45,7 +45,7 @@
 [Click vào đây để tải](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 ## 🔑Công nghệ sử dụng🔑
 - ⚡️ Android Studio: (https://developer.android.com/studio)
-- Firebase <br> <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Firebase.png" alt="fire_base" width="300" height="300">
+- Firebase <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Firebase.png" alt="fire_base" width="700" height="150">
 ## Thông tin thành viên
 - ☞ Võ Thiện Nhân - 21DH111296
 - ☞ Trần Hoàng Nam - 21DH113304
