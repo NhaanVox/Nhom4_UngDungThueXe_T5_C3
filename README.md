@@ -41,6 +41,7 @@
 - Thống kê doanh thu
   <br> <img src="" alt="thong_ke_doanh_thu" width="300" height="500">
 ## 🔗Link dự án🔗
+Để xem cụ thể các chức năng và code: 
 [Click vào đây để tải](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 ## 🔑Công nghệ sử dụng🔑
 - ⚡️ Android Studio: (https://developer.android.com/studio)
