@@ -1,8 +1,8 @@
 # ỨNG DỤNG QUẢN LÝ THUÊ XE 
 ## 🏴 Mục đích đồ án 🏴
-- ☝🏻 Quản lý việc thuê xe nhằm đảm bảo hoạt động thuê xe của khách hàng một cách uy tín.
-- ✌🏻 Giúp khách hàng có thể thực hiện thuê xe được qua mạng.
-- 🤟🏻 Quản lý các hoạt động kinh doanh như thống kê doanh thu, lập hóa đơn điện tử, giá cho thuê v.v…
+ ☝🏻 Quản lý việc thuê xe nhằm đảm bảo hoạt động thuê xe của khách hàng một cách uy tín. <br>
+ ✌🏻 Giúp khách hàng có thể thực hiện thuê xe được qua mạng. <br>
+ 🤟🏻 Quản lý các hoạt động kinh doanh như thống kê doanh thu, lập hóa đơn điện tử, giá cho thuê v.v…
 ## 🚩 Các chức năng đồ án 🚩
 **🙋‍♂️Customer🙋**
 - Đặt xe (Chọn ngày, phương thức thanh toán, ...)
@@ -43,18 +43,21 @@
 ## 🔗Link dự án🔗
 Để xem cụ thể các chức năng và code: 
 [Click vào đây để tải](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
-## 🚀Hướng phát triển🛰
-- Qua môn
-- Chỉnh sửa giao diện tối ưu và đặc đắc hơn
-- Chức năng đánh giá xe
-## 🔑Công nghệ sử dụng🔑
-- ⚡️ Android Studio: (https://developer.android.com/studio)
-## Thông tin thành viên
-- ☞ Võ Thiện Nhân - 21DH111296
-- ☞ Trần Hoàng Nam - 21DH113304
-- ☞ Vũ Khải Hoàn - 21DH113632
+## ⚡Công nghệ sử dụng⚡
+ <a href="https://developer.android.com/studio">
+  <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Android%20Studio%20Icon.png?raw=true" alt="AndroidStudio" width="100" height="50">
+</a>
+<br>
+ <a href="https://firebase.google.com/">
+  <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Firebase%20Icon.png?raw=true" alt="Firebase" width="100" height="50" >
+</a>
 
-| Công việc | 👦🏻 Nhân | 🐱 Nam | 👨🏻‍🚀 Hoàn |
+## Thông tin thành viên
+1️⃣ Võ Thiện Nhân - 21DH111296 <br>
+2️⃣ Trần Hoàng Nam - 21DH113304 <br>
+3️⃣ Vũ Khải Hoàn - 21DH113632 
+
+| Công việc | 🎱 Nhân | 🏸 Nam | ⚽ Hoàn |
 |-----------|------|-----|------|
 | Sprint 1 | ✔️ | ✔️ | ✔️ |
 | Sprint 2 | ✔️ | ✔️ | ✔️ |
