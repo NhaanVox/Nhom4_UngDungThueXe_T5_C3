@@ -17,7 +17,6 @@
 - **👨‍💻Admin🔧**
 - Quản lý đơn hàng, Quản lý xe cho thuê,  Thống kê<br>
 | <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Trang%20qu%E1%BA%A3n%20l%C3%BD%20h%C3%B3a%20%C4%91%C6%A1n.jpg?raw=true" alt="quan_ly_don_hang" width="300" height="500"> |
-<img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/TRang%20qu%E1%BA%A3n%20l%C3%BD%20xe.jpg?raw=true" alt="quan_ly_xe_cho_thue" width="300" height="500"> |
 <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Trang%20th%E1%BB%91ng%20k%C3%AA%20s%E1%BB%91%20h%C3%B3a%20%C4%91%C6%A1n.jpg?raw=true" alt="thong_ke_so_hoa_don" width="300" height="500">|
 ## 🔗Link dự án🔗
 Để xem cụ thể các chức năng và code: 
