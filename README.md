@@ -31,9 +31,9 @@
 </a>
 
 ## Thông tin thành viên
-1️⃣ Võ Thiện Nhân - 21DH111296 <br>
-2️⃣ Trần Hoàng Nam - 21DH113304 <br>
-3️⃣ Vũ Khải Hoàn - 21DH113632 
+1️⃣ Võ Thiện Nhân - 21DH111296 - Dev<br>
+2️⃣ Trần Hoàng Nam - 21DH113304 - Scrum Master <br>
+3️⃣ Vũ Khải Hoàn - 21DH113632  - Product Ower
 
 | Công việc | 🎱 Nhân | 🏸 Nam | ⚽ Hoàn |
 |-----------|------|-----|------|
