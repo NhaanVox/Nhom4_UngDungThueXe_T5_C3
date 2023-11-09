@@ -5,15 +5,12 @@
  🤟🏻 Quản lý các hoạt động kinh doanh như thống kê doanh thu, lập hóa đơn điện tử, giá cho thuê v.v…
 ## 🚩 Các chức năng đồ án 🚩
 **🙋‍♂️Customer🙋**
-- Đặt xe (Chọn ngày, phương thức thanh toán, ...)
+- Đặt xe (Chọn ngày, phương thức thanh toán, ...) <br>
+| <img src="https://raw.githubusercontent.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/main/images/Trang%20ch%E1%BB%A7.jpg" alt="xem_danh_muc_xe" width="300" height="500"> |
+<img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Trang%20chi%20ti%E1%BA%BFt%20xe.jpg?raw=true" alt="xem_thong_tin_chi_tiet_xe" width="300" height="500"> |
+<img src="https://raw.githubusercontent.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/main/images/Trang%20thu%C3%AA%20xe%20th%C3%A0nh%20c%C3%B4ng.jpg" alt="thanh_toan" width="300" height="500">|
   <br> <img src="https://raw.githubusercontent.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/main/images/Trang%20%C4%91%E1%BA%B7t%20xe.jpg" alt="dat_xe" width="300" height="500">
-- Xem danh mục xe
-  <br> <img src="https://raw.githubusercontent.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/main/images/Trang%20ch%E1%BB%A7.jpg" alt="xem_danh_muc_xe" width="300" height="500">
-- Thanh toán
-  <br> <img src="https://raw.githubusercontent.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/main/images/Trang%20thu%C3%AA%20xe%20th%C3%A0nh%20c%C3%B4ng.jpg" alt="thanh_toan" width="300" height="500">
-- Xem thông tin chi tiết xe
-  <br> <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Trang%20chi%20ti%E1%BA%BFt%20xe.jpg?raw=true" alt="xem_thong_tin_chi_tiet_xe" width="300" height="500">
-- Đăng nhập
+- Đăng nhập, Đăng ký, Đăng xuất <br>
   <br> <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Trang%20%C4%91%C4%83ng%20nh%E1%BA%ADp.jpg?raw=true" alt="dang_nhap" width="300" height="500">
 - Đăng ký
   <br> <img src="https://github.com/NhaanVox/Nhom4_UngDungThueXe_T5_C3/blob/main/images/Trang%20%C4%91%C4%83ng%20k%C3%BD.jpg?raw=true" alt="dang_ky" width="300" height="500">
